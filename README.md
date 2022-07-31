@@ -1,1 +1,1 @@
-# ibm_ds_capstone
+# IBM Applied Data Science Capstone
